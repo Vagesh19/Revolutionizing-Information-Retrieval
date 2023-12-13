@@ -1,0 +1,14 @@
+---
+:id: 206815698
+:submitters:
+- :name: Aryan Jindal
+  :email: ee1221162@ee.iitd.ac.in
+- :name: Vagesh Mahajan
+  :email: mt1221260@maths.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-27 10:14:43.557302000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-27 03:14:43.557302000 Z
+:status: processed
+:score: 60.0
